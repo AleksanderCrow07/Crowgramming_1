@@ -45,7 +45,7 @@ def main():
             print("BETWEENER")
 
     print("--- Part 1: yours ---")
-
+    
     print("--- Part 2: given ---")
     if user_age < LOW_AGE:
         print("NOT BETWEENER")
@@ -54,7 +54,7 @@ def main():
             print("NOT BETWEENER")
 
     print("--- Part 2: yours ---")
-
+    
 
 if __name__ == "__main__":
     main()
